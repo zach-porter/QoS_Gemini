@@ -1,0 +1,5 @@
+/* gui/assets/styles.css */
+/* Example: Make gauge cards slightly smaller */
+.card .card-body .graph-container {
+    height: 250px; /* Adjust as needed */
+}
